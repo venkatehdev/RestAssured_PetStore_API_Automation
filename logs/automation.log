@@ -1,0 +1,36 @@
+11:11:27.699 [main] INFO  com.api.test.UserModuleTestCases - ************ Creating User *********************
+11:11:30.421 [main] INFO  com.api.test.UserModuleTestCases - ************ User is Created *********************
+11:11:30.426 [main] INFO  com.api.test.UserModuleTestCases - ************ Reading User Info*********************
+11:11:31.855 [main] INFO  com.api.test.UserModuleTestCases - ************ Updating User *********************
+11:11:34.494 [main] INFO  com.api.test.UserModuleTestCases - ************ User is Updated *********************
+11:11:34.496 [main] INFO  com.api.test.UserModuleTestCases - ************ Deleting User *********************
+11:44:04.035 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Creating User *********************
+11:44:07.933 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User is Created *********************
+11:44:07.950 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Reading User Info*********************
+11:44:09.590 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User Info is displayed *********************
+11:44:09.606 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Updating User *********************
+11:44:12.968 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User is Updated *********************
+11:44:12.991 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Deleting User *********************
+11:44:14.603 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User is deleted *********************
+12:01:19.622 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Creating User *********************
+12:01:23.997 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User is Created *********************
+12:01:24.013 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Reading User Info*********************
+12:01:25.657 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User Info is displayed *********************
+12:01:25.666 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Updating User *********************
+12:01:28.732 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User is Updated *********************
+12:01:28.741 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Deleting User *********************
+12:01:30.266 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User is deleted *********************
+12:09:01.153 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Creating User *********************
+12:09:04.110 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User is Created *********************
+12:09:04.119 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Reading User Info*********************
+12:09:05.468 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Updating User *********************
+12:09:08.012 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User is Updated *********************
+12:09:08.013 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Deleting User *********************
+12:34:12.360 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Creating User *********************
+12:34:15.222 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User is Created *********************
+12:34:15.249 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Reading User Info*********************
+12:34:16.579 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User Info is displayed *********************
+12:34:16.582 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Updating User *********************
+12:34:19.163 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User is Updated *********************
+12:34:19.165 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ Deleting User *********************
+12:34:20.450 [main] INFO  com.api.test.UserModuleTestCases_readDataFromPropertyFile - ************ User is deleted *********************

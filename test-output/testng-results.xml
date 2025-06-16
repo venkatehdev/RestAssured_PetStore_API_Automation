@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-15T12:01:18 IST" name="PetStoreSuite" finished-at="2025-06-15T12:01:30 IST" duration-ms="11695">
+    <groups>
+    </groups>
+    <test started-at="2025-06-15T12:01:18 IST" name="PetStoreTest" finished-at="2025-06-15T12:01:30 IST" duration-ms="11695">
+      <class name="com.api.test.UserModuleTestCases_readDataFromPropertyFile">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:com.api.test.UserModuleTestCases_readDataFromPropertyFile@1e6454ec]" started-at="2025-06-15T12:01:18 IST" name="testSetup" finished-at="2025-06-15T12:01:19 IST" duration-ms="775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method signature="testUserCreation()[pri:1, instance:com.api.test.UserModuleTestCases_readDataFromPropertyFile@1e6454ec]" started-at="2025-06-15T12:01:19 IST" name="testUserCreation" finished-at="2025-06-15T12:01:23 IST" duration-ms="4385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserCreation -->
+        <test-method signature="testGetUser()[pri:2, instance:com.api.test.UserModuleTestCases_readDataFromPropertyFile@1e6454ec]" started-at="2025-06-15T12:01:24 IST" name="testGetUser" finished-at="2025-06-15T12:01:25 IST" duration-ms="1646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+        <test-method signature="testUpdateUser()[pri:3, instance:com.api.test.UserModuleTestCases_readDataFromPropertyFile@1e6454ec]" started-at="2025-06-15T12:01:25 IST" name="testUpdateUser" finished-at="2025-06-15T12:01:28 IST" duration-ms="3073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testDeleteUser()[pri:4, instance:com.api.test.UserModuleTestCases_readDataFromPropertyFile@1e6454ec]" started-at="2025-06-15T12:01:28 IST" name="testDeleteUser" finished-at="2025-06-15T12:01:30 IST" duration-ms="1529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- com.api.test.UserModuleTestCases_readDataFromPropertyFile -->
+    </test> <!-- PetStoreTest -->
+  </suite> <!-- PetStoreSuite -->
+</testng-results>
